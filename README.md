@@ -10,3 +10,5 @@ Extra feature
 Bug fix 1
 
 Bug fix 2
+
+Another
